@@ -9,6 +9,7 @@ const SeeksStoreManager = {
       disableDragNode: false,
       moveToCenterWhenResize: true,
       defaultFocusRootNode: true,
+      allowShowFullScreenMenu: true,
       allowShowZoomMenu: true,
       backgrounImageNoRepeat: false,
       allowShowMiniToolBar: true,
